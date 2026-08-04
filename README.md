@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Java+%7C+TypeScript+%7C+Angular;Interesse+em+Cybersecurity" />
+</p>
+
 <div align="center">
 
 # Olá! Eu sou o Yan Dias 👋
@@ -20,7 +24,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 
 ---
 
-# 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha carreira na área de desenvolvimento de software.
 
@@ -30,7 +34,7 @@ Acredito que programar vai além de fazer uma aplicação funcionar: gosto de en
 
 ---
 
-# 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -40,7 +44,7 @@ Acredito que programar vai além de fazer uma aplicação funcionar: gosto de en
 
 ---
 
-# 📚 Atualmente estudando
+## Atualmente estudando
 
 <div align="center">
 
@@ -58,12 +62,11 @@ Acredito que programar vai além de fazer uma aplicação funcionar: gosto de en
 
 ---
 
-# 🎯 Áreas de Interesse
+## Áreas de Interesse
 
 - Desenvolvimento Back-end
 - Desenvolvimento Full Stack
 - APIs REST
-- Banco de Dados
 - Arquitetura de Software
 - Cybersecurity
 - Desenvolvimento Seguro
@@ -71,7 +74,7 @@ Acredito que programar vai além de fazer uma aplicação funcionar: gosto de en
 
 ---
 
-# 📂 Projetos
+## Projetos
 
 Aqui você encontrará projetos desenvolvidos durante minha graduação e também projetos pessoais voltados para desenvolvimento de software.
 
@@ -79,7 +82,7 @@ Meu objetivo é utilizar este espaço para documentar minha evolução como dese
 
 ---
 
-# 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -91,7 +94,7 @@ Meu objetivo é utilizar este espaço para documentar minha evolução como dese
 
 ---
 
-# 📈 Contribuições
+## Contribuições
 
 <div align="center">
 
@@ -101,18 +104,16 @@ Meu objetivo é utilizar este espaço para documentar minha evolução como dese
 
 ---
 
-# 📫 Contato
+## Contato
 
-📧 **SEUEMAIL@gmail.com**
+📧 **yanvimbdiasdev@gmail.com**
 
-💼 **https://www.linkedin.com/in/SEU-LINKEDIN**
+💼 **https://www.linkedin.com/in/yan-dias-5887673b8/**
 
 ---
 
 <div align="center">
 
 ### Obrigado pela visita!
-
-Sempre aberto a aprender, compartilhar conhecimento e construir novos projetos.
 
 </div>
