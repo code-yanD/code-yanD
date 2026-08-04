@@ -12,11 +12,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 
 <br>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/yan-dias-5887673b8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:yanvimbdiasdev@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
