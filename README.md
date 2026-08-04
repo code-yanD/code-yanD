@@ -8,7 +8,7 @@
 
 ### Desenvolvedor Back-end | Estudante de ADS
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento de software.
 
 <br>
 
