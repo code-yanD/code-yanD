@@ -80,28 +80,6 @@ Meu objetivo é construir aplicações completas, documentadas e alinhadas às b
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-yanD&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yanD&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-yanD&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Obrigado pela visita!
