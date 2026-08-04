@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha c
 
 Meu principal foco é **Desenvolvimento Back-end**, especialmente utilizando **Java**, mas também tenho interesse em desenvolvimento **Full Stack** e em **Cybersecurity**, buscando compreender como desenvolver aplicações cada vez mais seguras, escaláveis e bem estruturadas.
 
-Acredito que programar vai além de fazer uma aplicação funcionar: gosto de entender como as tecnologias funcionam, escrever código limpo e evoluir constantemente por meio de projetos práticos e estudos.
+Acredito que entender o por quê das coisas é essencial em tudo, e na programação não é diferente
 
 ---
 
