@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# Olá! Eu sou o Yan Dias 👋
+# Olá! Eu sou o Yan Dias 
 
-### Desenvolvedor Back-end em formação
+### Desenvolvedor Back-end | Estudante de ADS
 
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha c
 
 Meu principal foco é **Desenvolvimento Back-end**, especialmente utilizando **Java**, mas também tenho interesse em desenvolvimento **Full Stack** e em **Cybersecurity**, buscando compreender como desenvolver aplicações cada vez mais seguras, escaláveis e bem estruturadas.
 
-Acredito que entender o por quê das coisas é essencial em tudo, e na programação não é diferente.
+Acredito que entender o por quê das coisas é essencial em tudo, e na programação não é diferente. Gosto de entender como as tecnologias funcionam por trás dos bastidores.
 
 ---
 
@@ -52,33 +52,31 @@ Acredito que entender o por quê das coisas é essencial em tudo, e na programa�
 
 </div>
 
-- Aprofundamento em Java
+- Java
 - TypeScript
 - Angular
 - Banco de Dados II
 - Segurança da Informação
-- Sistemas Operacionais
-- Métricas e Auditoria de Software
 
 ---
 
 ## Áreas de Interesse
 
-- Desenvolvimento Back-end
-- Desenvolvimento Full Stack
+- Full Stack
 - APIs REST
 - Arquitetura de Software
+- Banco de Dados
 - Cybersecurity
-- Desenvolvimento Seguro
-- Clean Code
 
 ---
 
 ## Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha graduação e também projetos pessoais voltados para desenvolvimento de software.
+Meu portfólio está em construção.
 
-Meu objetivo é utilizar este espaço para documentar minha evolução como desenvolvedor, aplicando boas práticas, organização de código e tecnologias utilizadas no mercado.
+Os próximos projetos serão publicados aqui conforme avanço na graduação e desenvolvo projetos pessoais.
+
+Meu objetivo é construir aplicações completas, documentadas e alinhadas às boas práticas utilizadas no mercado.
 
 ---
 
@@ -86,9 +84,9 @@ Meu objetivo é utilizar este espaço para documentar minha evolução como dese
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-yanD&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-yanD&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -98,17 +96,9 @@ Meu objetivo é utilizar este espaço para documentar minha evolução como dese
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-yanD&theme=github-compact&hide_border=true"/>
 
 </div>
-
----
-
-## Contato
-
-📧 **yanvimbdiasdev@gmail.com**
-
-💼 **https://www.linkedin.com/in/yan-dias-5887673b8/**
 
 ---
 
