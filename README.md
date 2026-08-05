@@ -72,11 +72,9 @@ Acredito que entender o por quê das coisas é essencial em tudo, e na programa�
 
 ## Projetos
 
-Meu portfólio está em construção.
+Aqui você encontrará projetos desenvolvidos durante minha graduação e estudos pessoais, explorando diferentes tecnologias e conceitos de desenvolvimento de software.
 
-Os próximos projetos serão publicados aqui conforme avanço na graduação e desenvolvo projetos pessoais.
-
-Meu objetivo é construir aplicações completas, documentadas e alinhadas às boas práticas utilizadas no mercado.
+Novos projetos serão adicionados conforme minha evolução como desenvolvedor.
 
 ---
 
