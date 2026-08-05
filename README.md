@@ -55,7 +55,7 @@ Acredito que entender o por quê das coisas é essencial em tudo, e na programa�
 - Java
 - TypeScript
 - Angular
-- Banco de Dados II
+- Banco de Dados
 - Segurança da Informação
 
 ---
